@@ -18,9 +18,6 @@ Welcome to the Smart Home Automation Project! This project, developed during the
 - **PicSimLab**: Virtual lab simulator for testing microcontroller circuits.
 - **Blynk**: IoT mobile application for remote control and monitoring.
 
-📽️ Live Demo
-Check out the live demo of the project in action:
-
 ## 💻 Installation & Usage
 
 ### 1. Clone the Repository
